@@ -93,20 +93,7 @@ Naval     ❯ 你列了三个欲望。每个欲望都是你跟不快乐签的一
             你知道现在谁在同时做这三件事吗？Apple.
 ```
 
-蒸馏张雪峰之后：
-
-```
-用户      ❯ 家里条件一般，孩子想学金融，去不了顶尖学校，该不该报？
-
-张雪峰    ❯ 千万别报。我说过多少遍了，金融不是你学出来的，金融是
-            你爹妈给你带出来的。顶尖学校的金融，人家同学是行长的
-            儿子、基金经理的女儿，人脉就是资源。你普通家庭去个普通
-            学校学金融，毕业出来干什么？卖保险、跑银行柜台、做电销。
-            先谋生再谋爱，家里没矿就选技术类专业，学个硬本事，靠
-            自己吃饭。金融这碗饭，不是谁都端得起的。
-```
-
-这不是角色扮演。乔布斯用的是「聚焦即说不」和「端到端控制」心智模型，Naval用的是「欲望即合同」，马斯克用的是「渐近极限法」，张雪峰用的是「ROI教育观」和「阶层流动现实主义」。**它们不是在复读名人语录，是在用名人的认知框架帮你分析。**
+这不是角色扮演。乔布斯用的是「聚焦即说不」和「端到端控制」心智模型，Naval用的是「欲望即合同」，马斯克用的是「渐近极限法」。**它们不是在复读名人语录，是在用名人的认知框架帮你分析。**
 
 ---
 
@@ -232,7 +219,6 @@ git clone https://github.com/alchaincyf/nuwa-skill <上面对应的路径>
 | **费曼** | 学习/教学/科学思维 | [feynman-skill](https://github.com/alchaincyf/feynman-skill) | `npx skills add alchaincyf/feynman-skill` |
 | **纳瓦尔** | 财富/杠杆/人生哲学 | [naval-skill](https://github.com/alchaincyf/naval-skill) | `npx skills add alchaincyf/naval-skill` |
 | **塔勒布** | 风险/反脆弱/不确定性 | [taleb-skill](https://github.com/alchaincyf/taleb-skill) | `npx skills add alchaincyf/taleb-skill` |
-| **张雪峰** | 教育/职业规划/阶层流动 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
 ### 主题Skill
 
@@ -303,7 +289,6 @@ nuwa-skill/
     ├── feynman-perspective/           # 费曼
     ├── naval-perspective/             # Naval Ravikant
     ├── taleb-perspective/             # 塔勒布
-    ├── zhangxuefeng-perspective/      # 张雪峰
     └── x-mastery-mentor/             # X导师（主题Skill）
 ```
 
